@@ -22,13 +22,13 @@
 }
 #main {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 #content {
     width: 70%;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
    flex-wrap: wrap;
     
 }
@@ -51,5 +51,5 @@
 
 #app{
     display: flex; 
-    flex-direction: row;
+    flex-direction: column;
 }
