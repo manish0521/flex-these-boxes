@@ -14,15 +14,16 @@
 
 #nav {
     width: 20%;
-    height: 200px;
+    height: 400px;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     
 }
 #main {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 #content {
